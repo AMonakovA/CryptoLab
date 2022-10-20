@@ -1,0 +1,8 @@
+C:\Users\Artem\source\repos\BlowFish\BlowFish\bin\Debug\BlowFish.exe.config
+C:\Users\Artem\source\repos\BlowFish\BlowFish\bin\Debug\BlowFish.exe
+C:\Users\Artem\source\repos\BlowFish\BlowFish\bin\Debug\BlowFish.pdb
+C:\Users\Artem\source\repos\BlowFish\BlowFish\obj\Debug\BlowFish.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\BlowFish\BlowFish\obj\Debug\BlowFish.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\source\repos\BlowFish\BlowFish\obj\Debug\BlowFish.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\BlowFish\BlowFish\obj\Debug\BlowFish.exe
+C:\Users\Artem\source\repos\BlowFish\BlowFish\obj\Debug\BlowFish.pdb
